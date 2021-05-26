@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            d0:c7:21:87:05:02:01:cc:b8:df:f8:99:eb:ed:69:89
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=server.shigabutdinov.local
+        Validity
+            Not Before: May 26 11:54:46 2021 GMT
+            Not After : Aug 29 11:54:46 2023 GMT
+        Subject: CN=Test intermediate certificate
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c1:2f:5d:b3:bd:38:a6:05:e0:75:90:a6:ed:c9:
+                    21:18:ff:28:0e:6d:06:04:43:1c:43:5d:af:2e:25:
+                    22:31:95:bc:e5:c0:4b:55:32:54:d3:78:e1:5d:56:
+                    ad:ae:48:11:fb:67:16:30:d3:96:bc:ee:7e:a3:ba:
+                    a7:af:9d:b4:81:61:c4:f2:9a:28:cc:bf:b8:31:4c:
+                    79:e3:2c:24:ed:24:87:58:30:e6:d0:37:a6:b9:83:
+                    e0:4e:8e:35:2b:17:e2:10:68:37:cf:b9:99:e1:62:
+                    80:68:a7:06:ba:a3:74:c4:e0:05:6f:e8:ab:7a:73:
+                    6e:00:23:19:a1:b9:26:f6:de:f4:27:71:9e:dc:02:
+                    6e:a7:2f:c3:d2:e5:31:ac:61:cf:cc:4f:98:9a:5a:
+                    5d:5c:b8:99:54:86:0c:89:f7:2b:d8:2e:6c:65:23:
+                    a6:c1:a2:b7:eb:21:f5:7f:1d:25:92:73:0e:ad:38:
+                    84:e3:00:4e:a8:56:5d:6d:90:4b:90:30:a0:a8:7a:
+                    22:24:cb:9a:37:be:9c:e8:1a:04:45:1a:aa:8b:15:
+                    9e:c4:21:50:5f:41:af:4c:ec:56:8e:93:9a:1c:a9:
+                    aa:9e:c6:c1:ea:75:93:60:16:ae:4e:e2:f5:55:3d:
+                    b8:a6:2b:9e:57:10:81:6b:ff:95:17:88:70:9f:c8:
+                    ba:6b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F2:A8:F9:3A:2F:7F:1A:6F:12:4B:D7:A7:7B:08:18:58:F5:1C:D7:E9
+            X509v3 Authority Key Identifier: 
+                keyid:AD:28:D4:68:E9:B7:3A:BE:5E:62:94:90:AC:92:97:CB:D4:41:1F:22
+                DirName:/CN=server.shigabutdinov.local
+                serial:1D:2D:9E:80:56:D6:89:DB:FB:97:BF:7B:E2:AB:0D:9C:A1:66:29:F2
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         af:dc:2e:66:b6:f4:9b:0e:e6:ee:c8:15:c6:f4:5b:9a:42:76:
+         31:db:a2:70:ef:7e:8c:8d:04:e3:39:85:ea:49:e9:83:ee:21:
+         2c:ce:d9:a7:e5:92:f8:f4:e3:83:26:9f:d7:36:45:b1:38:51:
+         2d:6d:1f:f0:98:26:6b:82:76:d4:37:57:e2:a6:43:e3:54:83:
+         01:0c:53:f4:d0:71:d6:1c:e0:92:cd:4b:fb:11:b3:87:9d:b4:
+         5e:0a:6b:cd:06:d8:17:a5:ba:d8:16:cd:09:c1:a3:60:da:36:
+         87:5e:00:ad:56:75:21:5d:e9:47:7f:fe:ff:75:e9:97:44:59:
+         80:69:d0:ca:59:33:44:56:7a:96:71:5d:12:e0:d0:9c:73:3d:
+         b3:55:08:3b:5a:49:77:d2:fc:3b:e1:aa:0c:ee:8a:80:15:ba:
+         c3:e9:3d:97:78:e0:8c:8a:e0:36:3c:0f:e6:2e:f1:db:fc:1e:
+         ab:0c:33:34:48:c3:13:82:dd:d1:4d:5c:9d:8f:9d:11:c9:b3:
+         2a:5c:a3:d3:4e:d0:ec:b2:1d:06:3c:d0:0f:5e:c0:dd:1e:cf:
+         fa:0c:9f:d8:cd:d6:f9:08:5e:0a:99:a6:89:6d:d7:b1:dc:16:
+         0b:93:6c:52:09:bb:94:30:34:9e:48:35:52:bc:87:4b:fb:5c:
+         ca:59:f3:e9
+-----BEGIN CERTIFICATE-----
+MIIDijCCAnKgAwIBAgIRANDHIYcFAgHMuN/4mevtaYkwDQYJKoZIhvcNAQELBQAw
+JTEjMCEGA1UEAwwac2VydmVyLnNoaWdhYnV0ZGlub3YubG9jYWwwHhcNMjEwNTI2
+MTE1NDQ2WhcNMjMwODI5MTE1NDQ2WjAoMSYwJAYDVQQDDB1UZXN0IGludGVybWVk
+aWF0ZSBjZXJ0aWZpY2F0ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMEvXbO9OKYF4HWQpu3JIRj/KA5tBgRDHENdry4lIjGVvOXAS1UyVNN44V1Wra5I
+EftnFjDTlrzufqO6p6+dtIFhxPKaKMy/uDFMeeMsJO0kh1gw5tA3prmD4E6ONSsX
+4hBoN8+5meFigGinBrqjdMTgBW/oq3pzbgAjGaG5Jvbe9CdxntwCbqcvw9LlMaxh
+z8xPmJpaXVy4mVSGDIn3K9gubGUjpsGit+sh9X8dJZJzDq04hOMATqhWXW2QS5Aw
+oKh6IiTLmje+nOgaBEUaqosVnsQhUF9Br0zsVo6Tmhypqp7Gwep1k2AWrk7i9VU9
+uKYrnlcQgWv/lReIcJ/IumsCAwEAAaOBsTCBrjAJBgNVHRMEAjAAMB0GA1UdDgQW
+BBTyqPk6L38abxJL16d7CBhY9RzX6TBgBgNVHSMEWTBXgBStKNRo6bc6vl5ilJCs
+kpfL1EEfIqEppCcwJTEjMCEGA1UEAwwac2VydmVyLnNoaWdhYnV0ZGlub3YubG9j
+YWyCFB0tnoBW1onb+5e/e+KrDZyhZinyMBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsG
+A1UdDwQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAr9wuZrb0mw7m7sgVxvRbmkJ2
+MduicO9+jI0E4zmF6knpg+4hLM7Zp+WS+PTjgyaf1zZFsThRLW0f8Jgma4J21DdX
+4qZD41SDAQxT9NBx1hzgks1L+xGzh520XgprzQbYF6W62BbNCcGjYNo2h14ArVZ1
+IV3pR3/+/3Xpl0RZgGnQylkzRFZ6lnFdEuDQnHM9s1UIO1pJd9L8O+GqDO6KgBW6
+w+k9l3jgjIrgNjwP5i7x2/weqwwzNEjDE4Ld0U1cnY+dEcmzKlyj007Q7LIdBjzQ
+D17A3R7P+gyf2M3W+QheCpmmiW3XsdwWC5NsUgm7lDA0nkg1UryHS/tcylnz6Q==
+-----END CERTIFICATE-----
